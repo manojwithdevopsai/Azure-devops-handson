@@ -22,29 +22,29 @@ login to azure portal
 
 Click on virtual machine
 
-Create a learning resource group or if you have any resource group select it
+Create resource group : learning
 
-Give a virtual machine name
+Give a virtual machine name : learning
 
-Select the region as you want
+Select the region as you want : (US) East US
 
-In avilability option select no infrastructure as redundency, this we are selecting for leraning purpose only
+Availability options : select no infrastructure as redundency,            this we are selecting for leraning purpose only
 
 Slect default image
 
-VM architecture is x64
+VM architecture : x64
 
-size Standard_B1s - 1 vcpu, 1 GiB memory
+size : Standard_B1s - 1 vcpu, 1 GiB memory
 
-authentication purpose is password
+authentication purpose : password
 
-username give as learning
+username : learning
 
-password give as Redhat@12345
+password : Redhat@12345
 
-confirm password as Redhat@12345
+confirm password : Redhat@12345
 
-Select Inbound port 22, 80, 443
+Select Inbound port : 22, 80, 443
 
 ```
 
